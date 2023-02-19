@@ -8,9 +8,10 @@ if __name__ == "__main__":
     ## use output of subprocess
     
     sum = 0 
-    for i in range(50):
+    co = 0
+    for i in range(100):
         if i % 2 != 0 :
-            
+            co +=1
             process1 = subprocess.Popen(["python", "python_script101.py", "--x",f'{i}'],stdout=subprocess.PIPE, stderr=subprocess.PIPE)
             out, err = process1.communicate()
             print(out.decode('utf-8'))
@@ -18,7 +19,7 @@ if __name__ == "__main__":
                 #ผลรวม xt= xt*2
             sum += (i*2)
             
-            
+    print(f'Round = {co}')        
     print(f'Summation of xt = {sum}')
     
 
