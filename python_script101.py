@@ -31,7 +31,8 @@ def print_other():
     print('something else')
 
 def print_ones():
-    print('1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 ')
+    print('1 1 1 1 1 1 1 1 1')
+
 
 if __name__ == "__main__":
     x = parse_input()
