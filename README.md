@@ -47,3 +47,14 @@ thanik pimpiban (623021049-1)
     - *git commit -m*
     - *git push*
     
+    
+Webpage 
+เป็นการออกแบบสำหรับ webpage ที่จะโชว์ทุกอย่างที่เราอยากนำเสนอ
+- github ในการออกแบบ webpage [คลิ๊กเพื่อดูการออกแบบจาก github อื่นๆ](https://github.com/sitthatkaja/HerbariumWebpage)
+- Result ของ webpage กลุ่ม Herbarium exhibition in metaverse [ผลลัพธ์ของ Webpage](https://sitthatkaja.github.io/HerbariumWebpage/)
+
+Webapp 
+เป็นการใช้งานตั้งแต่การดึงข้อมูลมาใช้จากในไฟล์ template รวมไปถึงการย้ายไปหน้าต่างสรุปผล รวมไปถึงการรันไปยังหน้าต่างอื่นๆ
+- github ของ Web app  [คลิ๊กเพื่อดู](https://github.com/sitthatkaja/guts_video_visualization)
+  
+---
