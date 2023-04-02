@@ -48,22 +48,22 @@ thanik pimpiban (623021049-1)
     - *git push*
     
     ----
-    Lacture web :[คลิ๊กเพื่อดู](https://github.com/thanik48775/AIprototype65/blob/cd4f7a589ef8cdaaa3fc1af530d39d112301a2fc/web.pdf)
-     ----
-     Lacture natural network : [คลิ๊กเพื่อดู](https://github.com/thanik48775/AIprototype65/blob/cd4f7a589ef8cdaaa3fc1af530d39d112301a2fc/natural_network_.pdf)
-      ----
-       Lacture freeze process : [คลิ๊กเพื่อดู](https://github.com/thanik48775/AIprototype65/blob/cd4f7a589ef8cdaaa3fc1af530d39d112301a2fc/freeze_process.pdf)
-       ----
-Webpage 
+     *Lacture web :[คลิ๊กเพื่อดู](https://github.com/thanik48775/AIprototype65/blob/cd4f7a589ef8cdaaa3fc1af530d39d112301a2fc/web.pdf)
+    ----
+    *Lacture natural network : [คลิ๊กเพื่อดู](https://github.com/thanik48775/AIprototype65/blob/cd4f7a589ef8cdaaa3fc1af530d39d112301a2fc/natural_network_.pdf)
+    ----
+     *Lacture freeze process : [คลิ๊กเพื่อดู](https://github.com/thanik48775/AIprototype65/blob/cd4f7a589ef8cdaaa3fc1af530d39d112301a2fc/freeze_process.pdf)
+    ----
+**Webpage**
 เป็นการออกแบบสำหรับ webpage ที่จะโชว์ทุกอย่างที่เราอยากนำเสนอ
-- github ในการออกแบบ webpage [คลิ๊กเพื่อดูการออกแบบจาก github อื่นๆ](https://github.com/sitthatkaja/HerbariumWebpage)
-- Result ของ webpage กลุ่ม Herbarium exhibition in metaverse [ผลลัพธ์ของ Webpage](https://sitthatkaja.github.io/HerbariumWebpage/)
+ *github ในการออกแบบ webpage [คลิ๊กเพื่อดูการออกแบบจาก github อื่นๆ](https://github.com/sitthatkaja/HerbariumWebpage)
+ *Result ของ webpage กลุ่ม Herbarium exhibition in metaverse [ผลลัพธ์ของ Webpage](https://sitthatkaja.github.io/HerbariumWebpage/)
 
 ----
 
 
-Webapp 
+**Webapp**
 เป็นการใช้งานตั้งแต่การดึงข้อมูลมาใช้จากในไฟล์ template รวมไปถึงการย้ายไปหน้าต่างสรุปผล รวมไปถึงการรันไปยังหน้าต่างอื่นๆ
-- github ของ Web app  [คลิ๊กเพื่อดู](https://github.com/thanik48775/guts_video_visualization.git)
+ *github ของ Web app  [คลิ๊กเพื่อดู](https://github.com/thanik48775/guts_video_visualization.git)
   
 ----
